@@ -1,2 +1,6 @@
-*.class
-*.ts
+Address.class
+address.ts
+Photo.class
+photo.ts
+User.class
+user.ts
